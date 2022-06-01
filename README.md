@@ -1,3 +1,8 @@
+#Wordle_Game
+
+Wordle is a worldwide famous game that extends the capability of human to brainstrom. This game deals with all the aspects of logic meant to be implemented.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
